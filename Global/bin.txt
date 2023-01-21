@@ -1,1 +1,1 @@
-bin_aeldra_453.exe rbclient.exe - - - -
+bin_aeldra_453.exe rbclient.exe - - - metin2client.bin
