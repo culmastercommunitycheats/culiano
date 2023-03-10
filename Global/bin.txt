@@ -1,1 +1,1 @@
-bin_aeldra_486.exe rbclient.exe metin2client.exe metin2client.exe metin2client.bin legend.bin
+bin_aeldra_487.exe rbclient.exe metin2client.exe metin2client.exe metin2client.bin legend.bin
